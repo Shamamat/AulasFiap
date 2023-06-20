@@ -1,0 +1,15 @@
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.csproj.AssemblyReference.cache
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.AssemblyInfoInputs.cache
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.AssemblyInfo.cs
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.exe
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.deps.json
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.runtimeconfig.json
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.dll
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.pdb
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.dll
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\refint\SegundoProjeto.dll
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.pdb
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.genruntimeconfig.cache
+E:\Visual Studio\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\ref\SegundoProjeto.dll
